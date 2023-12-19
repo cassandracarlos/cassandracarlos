@@ -16,4 +16,4 @@
 
 [codingcass.github.io](https://github.com/codingcass/codingcass.github.io)
 - see all lifestyle notes on phone and tablet and move them all into one place, probably shared notion
-- take steps towards steady income source
+- take steps towards steady income source and further develop general figma project
