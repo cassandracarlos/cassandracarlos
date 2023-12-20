@@ -1,6 +1,7 @@
 [game-development](https://github.com/codingcass/game-development)
 - various tofu recipes
 - universal figma template
+- prepare snacks for friends
 
 [wordpress-theme](https://github.com/codingcass/wordpress-theme)
 - envato themeforest examples
