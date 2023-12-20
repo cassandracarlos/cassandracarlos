@@ -1,5 +1,5 @@
 [game-development](https://github.com/codingcass/game-development)
-- look at pinterest board for ideas for this repository and content-creation
+- look at pinterest board for ideas for this repository, content-creation, and tofu
 - develop game-jam repository in conjunction for game-development teaching/learning project
 
 [wordpress-theme](https://github.com/codingcass/wordpress-theme)
