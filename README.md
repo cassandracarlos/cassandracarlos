@@ -26,4 +26,4 @@
 - garbage day, tofu-how to prepare
 - game dev draw.io pipeline (put notes in GitHub game-jam repo.)
 - jon books (the best way to learn is to teach) block base game development
-- content plan for pixel art personality "wokju"
+- content plan for pixel art personality WOKJU/@wokjutsu
