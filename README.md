@@ -1,6 +1,6 @@
 [game-development](https://github.com/codingcass/game-development)
 - various tofu recipes
-- develop universal template
+- universal figma template
 
 [wordpress-theme](https://github.com/codingcass/wordpress-theme)
 - envato themeforest examples
@@ -17,3 +17,13 @@
 [codingcass.github.io](https://github.com/codingcass/codingcass.github.io)
 - clean up general figma project
 - take steps towards steady income
+- automated systems (payments)
+- meal planning system
+- (base pixel blocks)
+- income streams (all types!)
+- laundry (capsule-system for clothes)
+- toothpaste, bedsheets, vita...toiletries
+- garbage day, tofu-how to prepare
+- game dev draw.io pipeline (put notes in GitHub game-jam repo.)
+- jon books (the best way to learn is to teach) block base game development
+- content plan for pixel art personality "wokju"
