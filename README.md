@@ -3,8 +3,8 @@
 * Easiest game mechanics to code.
 
 [wordpress-theme](https://github.com/codingcass/wordpress-theme)
-* WordPress themes (real-estate websites) for passive income.
-* Review platform-specific terms and conditions (choose between: TemplateMonster, CreativeMarket and InkThemes)
+* WordPress themes (real-estate websites) for passive income. Plan themes (base-content & design) (see: Wicked).
+* Review platform-specific terms and conditions (choose between: TemplateMonster, CreativeMarket and InkThemes).
 
 [quality-assurance](https://github.com/codingcass/quality-assurance)
 * Documentation (eg. test plans, test strategy documents, or testing summaries).
