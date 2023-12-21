@@ -1,6 +1,3 @@
-[gameplay-loop](https://github.com/codingcass?tab=projects)
-* N/A
-
 [game-development](https://github.com/codingcass/game-development)
 * N/A
 
