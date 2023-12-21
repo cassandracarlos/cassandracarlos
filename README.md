@@ -9,7 +9,6 @@
 [quality-assurance](https://github.com/codingcass/quality-assurance)
 * Documentation (eg. test plans, test strategy documents, or testing summaries).
 * Testing tools (eg. test management tools, automation tools and bug-tracking systems).
-* Test cases (sets of conditions that include elements like test data and expected outcomes) and sample scenarios.
 
 [content-creation](https://github.com/codingcass/content-creation)
 * Content plan, including a "style guide" (eg. pixel art tutorials and game development updates).
