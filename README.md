@@ -5,7 +5,7 @@
 
 [wordpress-theme](https://github.com/codingcass/wordpress-theme/wiki)
 ```
-* planning WordPress themes for income
+* research and create wordpress themes to sell
 ```
 
 [quality-assurance](https://github.com/codingcass/quality-assurance/wiki)
@@ -15,5 +15,5 @@
 
 [content-creation](https://github.com/codingcass/content-creation/wiki)
 ```
-* content plan and timed (streamlined) process
+* make content plan, guidelines and timed process
 ```
