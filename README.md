@@ -10,11 +10,10 @@
 
 [quality-assurance](https://github.com/codingcass/quality-assurance/wiki)
 ```
-* documentation (eg. test plans, test strategy documents, or testing summaries)
-* tools (eg. test management tools, automation tools and bug-tracking systems)
+* documentation and tools (eg. test management tools, automation tools and bug-tracking systems)
 ```
 
 [content-creation](https://github.com/codingcass/content-creation/wiki)
 ```
-* content plan, including a "style guide"
+* content plan and timed (streamlined) process
 ```
