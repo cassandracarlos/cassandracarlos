@@ -15,5 +15,5 @@
 
 [content-creation](https://github.com/codingcass/content-creation/wiki)
 ```
-* update content and GitHub pages DNS
+* timed Instagram post and GitHub Pages DNS
 ```
