@@ -5,15 +5,15 @@
 
 [wordpress-theme](https://github.com/codingcass/wordpress-theme/wiki)
 ```
-* research and create wordpress themes to sell
+* sell themes like notion templates
 ```
 
 [quality-assurance](https://github.com/codingcass/quality-assurance/wiki)
 ```
-* documentation and tools (eg. test management tools, automation tools and bug-tracking systems)
+* documentation and test management tools
 ```
 
 [content-creation](https://github.com/codingcass/content-creation/wiki)
 ```
-* make content plan, guidelines and timed process
+* update content and GitHub pages DNS
 ```
