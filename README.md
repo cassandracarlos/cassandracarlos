@@ -17,3 +17,8 @@
 ```
 * timed Instagram post and GitHub Pages DNS
 ```
+
+[personal-website](https://github.com/codingcass/codingcass.github.io/wiki)
+```
+* portfolio added to personal website
+```
