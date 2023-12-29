@@ -1,4 +1,4 @@
-[CodingCass' Wiki](https://github.com/codingcass/codingcass.github.io/wiki)
+I'm an artist and programmer.
 <!-- [game-development](https://github.com/codingcass/game-development/wiki)
 ```
 * make a full game in one hour
