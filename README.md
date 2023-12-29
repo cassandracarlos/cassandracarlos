@@ -1,4 +1,5 @@
-[game-development](https://github.com/codingcass/game-development/wiki)
+[CodingCass' Wiki](https://github.com/codingcass/codingcass.github.io/wiki)
+<!-- [game-development](https://github.com/codingcass/game-development/wiki)
 ```
 * make a full game in one hour
 ```
@@ -17,8 +18,8 @@
 ```
 * timed Instagram post and GitHub Pages DNS
 ```
-
 [personal-website](https://github.com/codingcass/codingcass.github.io/wiki)
 ```
 * portfolio added to personal website
 ```
+-->
