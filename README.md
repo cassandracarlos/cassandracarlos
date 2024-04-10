@@ -1,16 +1,16 @@
-<h2 align="center">Hi, I'm Cassandra! I make video games.</h2>
+<h3>Hi, I'm Cassandra! I make video games.</h3>
 
 <!--<p align="center">I'm currently working with a small team to develop a first-person horror game for a month-long jam. My favourite games are Destiny 2, Stardew Valley and Chained Echoes.</p>-->
 
-<p align="center">
+<p>
     <a href="https://cassandracarlos.itch.io/">
-        <img src="https://img.shields.io/badge/itch.io-%23E4405F.svg?&style=for-the-badge&logo=itch.io&logoColor=white">
+        <img src="https://img.shields.io/badge/itch.io-%23E4405F.svg?&style=for-the-badge&logo=itch.io&logoColor=white" height=25 />
     </a>
     <a href="https://cassandracarlos.com/">
-        <img src="https://img.shields.io/badge/portfolio-%231DA1F2.svg?&style=for-the-badge&logo=wordpress&logoColor=white">
+        <img src="https://img.shields.io/badge/portfolio-%231DA1F2.svg?&style=for-the-badge&logo=wordpress&logoColor=white" height=25 />
     </a>
     <a href="https://www.linkedin.com/in/cassandracarlos/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 />
     </a>
 </p>
 <!--
