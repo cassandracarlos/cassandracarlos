@@ -1,4 +1,6 @@
-<h3>Hi, I'm Cassandra! I make video games.</h3>
+<h3>Hi, I'm Cassandra!</h3>
+
+<p>I make video games using the Godot 4 engine.</p>
 
 <!--<p align="center">I'm currently working with a small team to develop a first-person horror game for a month-long jam. My favourite games are Destiny 2, Stardew Valley and Chained Echoes.</p>-->
 
