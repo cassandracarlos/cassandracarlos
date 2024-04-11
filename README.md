@@ -1,4 +1,4 @@
-<h2>Hi, I'm Cassandra!</h2>
+<h3>Hi, I'm Cassandra!</h3>
 
 <p>I make video games. My engine of choice is Godot, though I have some experience using Unreal Engine for blockouts.</p>
 
