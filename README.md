@@ -1,6 +1,6 @@
 <h3>Hi, I'm Cassandra!</h3>
 
-<p>I make video games. My engine of choice is Godot, though I have some experience using Unreal Engine for blockouts.</p>
+<p>I make video games. My favourite game engine is Godot.</p>
 
 <!--<p align="center">I'm currently working with a small team to develop a first-person horror game for a month-long jam. My favourite games are Destiny 2, Stardew Valley and Chained Echoes.</p>-->
 
