@@ -1,6 +1,6 @@
 <h3>Hi, I'm Cassandra!</h3>
 
-<p>I make video games. My favourite game engine is Godot, and I enjoy participating in Game Jams with my friends and attending game development events in Vancouver.</p>
+<p>I make video games. My favourite game engine is Godot, and I enjoy participating in Game Jams with my friends and attending game developer events in Vancouver.</p>
 
 <!--<p align="center">I'm currently working with a small team to develop a first-person horror game for a month-long jam. My favourite games are Destiny 2, Stardew Valley and Chained Echoes.</p>-->
 
