@@ -1,4 +1,4 @@
-<h3>Hi, I'm Cassandra!</h3>
+<h2>Hi, I'm Cassandra!</h2>
 
 <p>I'm a Website Developer. I also participate in the occasional Game Jam.</p>
 
