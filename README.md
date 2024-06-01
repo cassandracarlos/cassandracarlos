@@ -5,26 +5,13 @@
 
 ---
 
-<h3>Here is a list of the tools I use:</h3>
+<h3>Here are some of the tools I use:</h3>
 
-<h4>Web Development</h4>
-
-* HTML
 * CSS
 * JavaScript
 * React
 * NodeJS
 * WordPress
-
-<h4>Game Development</h4>
-
-* Godot
-* Unity
-* Aseprite
-
-<h4>Both</h4>
-
 * GitHub
 * Figma
-* Trello
-* Discord
+* Godot
