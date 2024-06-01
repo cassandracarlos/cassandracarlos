@@ -7,11 +7,11 @@
 
 <h3>Here are some of the tools I use:</h3>
 
-* CSS
+* HTML and CSS
 * JavaScript
+* WordPress
 * React
 * NodeJS
-* WordPress
 * GitHub
 * Figma
 * Godot
