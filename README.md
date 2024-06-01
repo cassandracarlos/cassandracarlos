@@ -11,7 +11,5 @@
 * JavaScript
 * React
 * NodeJS
-* WordPress
-* GitHub
 * Figma
 * Godot
