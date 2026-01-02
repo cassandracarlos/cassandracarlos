@@ -4,6 +4,6 @@ Let there be README.md
 
 - [x] Fix contributions
 - [ ] Find homes for:
-  - [ ] Daygrid
+  - [x] Daygrid
   - [x] BG Layout
   - [ ] Templates
