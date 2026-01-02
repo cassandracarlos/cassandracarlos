@@ -6,5 +6,5 @@ Let there be README.md
 - [ ] Find homes for:
   - [x] Daygrid
   - [x] BG Layout
-  - [ ] Templates
-  - [ ] Minimum Viable Theme
+  - [ ] Templates (neocities.org)
+  - [ ] Minimum Viable Theme (WP)
