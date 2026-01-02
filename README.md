@@ -7,3 +7,4 @@ Let there be README.md
   - [x] Daygrid
   - [x] BG Layout
   - [ ] Templates
+  - [ ] Minimum Viable Theme
